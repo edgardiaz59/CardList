@@ -22,7 +22,6 @@ const CardList = ({items}) => {
     } else {
 
     }
-
 }
 
 export default CardList;
